@@ -34,4 +34,4 @@ This project analyzes the official ApexPlanet cleaned sales dataset using Python
 - `task2_apexplanet_dashboard.py` - Dashboard-generation script
 - `task2_apexplanet_dashboard.png` - Final static dashboard
 - `task2_apexplanet_report.md` - Business-insights report
--
+
